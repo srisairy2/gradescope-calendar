@@ -143,7 +143,7 @@ assignments = {
     {
       "title": "Homework 4",
       "course": "CMSC 351 - 0201",
-      "dueDate": "2023-10-08T23:59:00",
+      "dueDate": "2023-10-09T23:59:00",
       "link": "https://www.gradescope.com/courses/597213",
       "submitted": false
     },

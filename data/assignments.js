@@ -179,8 +179,8 @@ assignments = {
       "title": "Quiz 19",
       "course": "CMSC 351 - 0201",
       "dueDate": "2023-10-16T14:00:00",
-      "link": "https://www.gradescope.com/courses/597213/assignments/3524793/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/597213/assignments/3524793/submissions/203033874",
+      "submitted": true
     },
     {
       "title": "NP 3",

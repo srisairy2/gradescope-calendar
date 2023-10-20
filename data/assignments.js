@@ -200,8 +200,8 @@ assignments = {
       "title": "Quiz 21",
       "course": "CMSC 351 - 0201",
       "dueDate": "2023-10-20T14:00:00",
-      "link": "https://www.gradescope.com/courses/597213/assignments/3550676/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/597213/assignments/3550676/submissions/204545172",
+      "submitted": true
     }
   ],
   "CMSC330": [

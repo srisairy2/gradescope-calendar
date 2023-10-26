@@ -207,8 +207,8 @@ assignments = {
       "title": "Homework 5",
       "course": "CMSC 351 - 0201",
       "dueDate": "2023-10-25T23:59:00",
-      "link": "https://www.gradescope.com/courses/597213",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/597213/assignments/3561257/submissions/206341166",
+      "submitted": true
     },
     {
       "title": "Quiz 22",

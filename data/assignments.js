@@ -237,6 +237,13 @@ assignments = {
       "dueDate": "2023-11-01T23:59:00",
       "link": "https://www.gradescope.com/courses/597213",
       "submitted": false
+    },
+    {
+      "title": "NP 4 ",
+      "course": "CMSC 351 - 0201",
+      "dueDate": "2023-11-01T23:59:00",
+      "link": "https://www.gradescope.com/courses/597213",
+      "submitted": false
     }
   ],
   "CMSC330": [

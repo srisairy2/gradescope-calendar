@@ -235,15 +235,15 @@ assignments = {
       "title": "Homework 6 ",
       "course": "CMSC 351 - 0201",
       "dueDate": "2023-11-01T23:59:00",
-      "link": "https://www.gradescope.com/courses/597213",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/597213/assignments/3592259/submissions/208595544",
+      "submitted": true
     },
     {
       "title": "NP 4 ",
       "course": "CMSC 351 - 0201",
       "dueDate": "2023-11-03T23:59:00",
-      "link": "https://www.gradescope.com/courses/597213",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/597213/assignments/3608274/submissions/208593657",
+      "submitted": true
     },
     {
       "title": "Quiz 25",

@@ -272,6 +272,13 @@ assignments = {
       "dueDate": "2023-11-06T23:59:00",
       "link": "https://www.gradescope.com/courses/597213/assignments/3635660/submissions/210090562",
       "submitted": true
+    },
+    {
+      "title": "Quiz 28",
+      "course": "CMSC 351 - 0201",
+      "dueDate": "2023-11-08T14:00:00",
+      "link": "https://www.gradescope.com/courses/597213/assignments/3644561/submissions/new",
+      "submitted": false
     }
   ],
   "CMSC330": [
@@ -391,8 +398,8 @@ assignments = {
       "title": "Lecture Quiz 11/2",
       "course": "CMSC330",
       "dueDate": "2023-11-06T23:59:00",
-      "link": "https://www.gradescope.com/courses/561034/assignments/3625273/submissions/new",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/561034/assignments/3625273/submissions/210139958",
+      "submitted": true
     }
   ]
 };

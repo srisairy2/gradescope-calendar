@@ -440,8 +440,8 @@ assignments = {
       "title": "Project 7",
       "course": "CMSC330",
       "dueDate": "2023-11-29T23:59:00",
-      "link": "https://www.gradescope.com/courses/561034",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/561034/assignments/3694062/submissions/216205978",
+      "submitted": true
     },
     {
       "title": "Lecture Quiz 11/16",

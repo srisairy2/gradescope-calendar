@@ -449,6 +449,13 @@ assignments = {
       "dueDate": "2023-11-20T23:59:00",
       "link": "https://www.gradescope.com/courses/561034/assignments/3694365/submissions/214635158",
       "submitted": true
+    },
+    {
+      "title": "Lecture Quiz 11/30",
+      "course": "CMSC330",
+      "dueDate": "2023-12-04T23:59:00",
+      "link": "https://www.gradescope.com/courses/561034/assignments/3744407/submissions/new",
+      "submitted": false
     }
   ]
 };

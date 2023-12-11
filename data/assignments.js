@@ -319,8 +319,8 @@ assignments = {
       "title": "NP6 ",
       "course": "CMSC 351 - 0201",
       "dueDate": "2023-12-11T14:00:00",
-      "link": "https://www.gradescope.com/courses/597213",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/597213/assignments/3762398/submissions/219286996",
+      "submitted": true
     }
   ],
   "CMSC330": [

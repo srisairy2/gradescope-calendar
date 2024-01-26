@@ -1,5 +1,6 @@
 assignments = {
   "CMSC 426": [],
+  "CMSC 430": [],
   "STAT400": [
     {
       "title": "Homework assignment 1",

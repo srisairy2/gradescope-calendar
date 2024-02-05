@@ -1,5 +1,13 @@
 assignments = {
-  "CMSC 426": [],
+  "CMSC 426": [
+    {
+      "title": "Project 1",
+      "course": "CMSC 426",
+      "dueDate": "2024-02-13T23:59:00",
+      "link": "https://www.gradescope.com/courses/721597",
+      "submitted": false
+    }
+  ],
   "CMSC 430": [
     {
       "title": "Assignment 1",

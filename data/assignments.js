@@ -36,8 +36,8 @@ assignments = {
       "title": "Homework assignment 2",
       "course": "STAT400",
       "dueDate": "2024-02-10T23:59:00",
-      "link": "https://www.gradescope.com/courses/720522",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/720522/assignments/4039636/submissions/229606242",
+      "submitted": true
     },
     {
       "title": "Homework assignment 3",

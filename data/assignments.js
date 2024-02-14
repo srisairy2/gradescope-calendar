@@ -4,8 +4,8 @@ assignments = {
       "title": "Project 1",
       "course": "CMSC 426",
       "dueDate": "2024-02-13T23:59:00",
-      "link": "https://www.gradescope.com/courses/721597",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/721597/assignments/4053628/submissions/230530336",
+      "submitted": true
     }
   ],
   "CMSC 430": [

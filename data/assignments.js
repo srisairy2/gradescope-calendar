@@ -20,8 +20,8 @@ assignments = {
       "title": "Assignment 2 ",
       "course": "CMSC 430",
       "dueDate": "2024-02-14T23:59:00",
-      "link": "https://www.gradescope.com/courses/723511",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/723511/assignments/4082205/submissions/230811356",
+      "submitted": true
     }
   ],
   "STAT400": [

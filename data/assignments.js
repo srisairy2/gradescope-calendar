@@ -11,8 +11,8 @@ assignments = {
       "title": "Homework 1",
       "course": "CMSC 426",
       "dueDate": "2024-02-24T23:59:00",
-      "link": "https://www.gradescope.com/courses/721597",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/721597/assignments/4120356/submissions/233965377",
+      "submitted": true
     }
   ],
   "CMSC 430": [

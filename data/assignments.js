@@ -41,8 +41,8 @@ assignments = {
       "title": "Assignment 3, Part 2",
       "course": "CMSC 430",
       "dueDate": "2024-03-01T23:59:00",
-      "link": "https://www.gradescope.com/courses/723511",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/723511/assignments/4108471/submissions/235918357",
+      "submitted": true
     },
     {
       "title": "Practice Midterm 1 - Summer 2023",

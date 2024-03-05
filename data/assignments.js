@@ -50,6 +50,13 @@ assignments = {
       "dueDate": "2024-05-15T23:59:00",
       "link": "https://www.gradescope.com/courses/723511",
       "submitted": false
+    },
+    {
+      "title": "Playground: Assignment 3, Part 2",
+      "course": "CMSC 430",
+      "dueDate": "2024-05-17T23:59:00",
+      "link": "https://www.gradescope.com/courses/723511",
+      "submitted": false
     }
   ],
   "STAT400": [

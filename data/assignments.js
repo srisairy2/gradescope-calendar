@@ -62,8 +62,8 @@ assignments = {
       "title": "Midterm 1",
       "course": "CMSC 430",
       "dueDate": "2024-03-06T23:59:00",
-      "link": "https://www.gradescope.com/courses/723511",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/723511/assignments/4197992/submissions/237079445",
+      "submitted": true
     }
   ],
   "STAT400": [

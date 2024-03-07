@@ -101,6 +101,13 @@ assignments = {
       "dueDate": "2024-03-09T23:59:00",
       "link": "https://www.gradescope.com/courses/720522",
       "submitted": false
+    },
+    {
+      "title": "Homework assignment 6",
+      "course": "STAT400",
+      "dueDate": "2024-03-16T23:59:00",
+      "link": "https://www.gradescope.com/courses/720522",
+      "submitted": false
     }
   ]
 };
